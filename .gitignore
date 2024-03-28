@@ -3,3 +3,4 @@
 .ipynb_checkpoints
 similarity.pkl
 movie_list.pkl
+.gitignore
